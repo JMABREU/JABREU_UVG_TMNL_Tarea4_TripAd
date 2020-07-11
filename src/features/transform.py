@@ -48,7 +48,7 @@ def getLdaModelData(pData):
     # Term Document Frequency
     corpus = fnGenerateCorpus(id2word, pData)
     # View
-    print('Valores para Corpus:')
+    #print('Valores para Corpus:')
     #print(corpus[1:2])
 
     # Human readable format of corpus (term-frequency)
