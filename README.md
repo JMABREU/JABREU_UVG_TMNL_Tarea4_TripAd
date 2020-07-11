@@ -1,9 +1,11 @@
+---------------------------------------------------------------------------------------------
 UBICACIÓN CONTROL DE VERSIONES EN GITHUB
+---------------------------------------------------------------------------------------------
 https://github.com/JMABREU/JABREU_UVG_TMNL_Tarea4_TripAd
 
 
 ---------------------------------------------------------------------------------------------
--- COMANDOS APLICADOS AL AMBIENTE DE LA TAREA
+COMANDOS APLICADOS AL AMBIENTE DE LA TAREA
 ---------------------------------------------------------------------------------------------
 > conda create -n T5_PSA_JABREU
 > conda activate T5_PSA_JABREU
